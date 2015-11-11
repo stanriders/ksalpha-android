@@ -1,0 +1,1 @@
+{"target_version": 8, "orientation": "landscape", "package": "com.stanr.ksalpharepair", "include_pil": false, "numeric_version": "11", "expansion": false, "name": "Katawa Shoujo Prealpha", "source": false, "icon_name": "Katawa Shoujo Prealpha", "version": "0.beta", "layout": null, "permissions": ["VIBRATE"], "include_sqlite": false, "store": "none"}
