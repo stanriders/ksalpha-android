@@ -1525,6 +1525,7 @@ init 1:
     
     #black version:
     image alivetext = renpy.ParameterizedText(yalign=0.5, xanchor=0, xpos = 130, style="alive_text", drop_shadow=None, color="#000000")
+    image alivetext_ru = renpy.ParameterizedText(yalign=0.5, xanchor=0, xpos = 70, style="alive_text", drop_shadow=None, color="#000000")
     #moved white version:
     image walivetext = renpy.ParameterizedText(yalign=0.5, xanchor=0.5, xpos = 0.5, style="alive_text", drop_shadow=None, color="#ffffff")
     

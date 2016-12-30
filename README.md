@@ -1,4 +1,4 @@
-# Katawa Shoujo Prealpha on Android
+Katawa Shoujo Prealpha on Android
 ==============
 
 **WARNING**: This is unfinished, unpolished and unstable work.
